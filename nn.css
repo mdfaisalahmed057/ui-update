@@ -1,0 +1,69 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+.features{
+
+   background-image: url("newnote.png");
+   background-size: contain;
+}
+#feature{
+    /* background-image: url("lol.jpg"); */
+    border-radius: 5px;
+    max-width: 80%;
+    margin: auto;
+
+}
+
+#tt{
+    background-color: #dcdcef;
+    /* background-image: url("kkk.png"); */
+
+}
+
+.foor{
+    background-color: #eeeef8;
+    /* background-image: url("kkk.png"); */
+
+}
+
+#head{
+
+    background-color: rgb(225, 227, 234);
+    border-radius: 10px;
+    background-color: aliceblue;
+
+}
+#f2{
+    background-color: rgb(225, 227, 234);
+    border-radius: 10px;
+    /* margin: 10px;
+    width: 23vw; */
+
+
+    
+}
+#f1{
+    background-color: aliceblue;
+    border-radius: 10px;
+    /* margin: 10px;
+    width: 23vw; */
+
+}
+#f3{
+    background-color: rgb(33, 111, 179);
+    border-radius: 10px;
+    /* margin: 10px;
+    width: 23vw; */
+}
+#hh{
+    background: #f4f4f4;    border:rgb(0, 0, 0);
+}
+#hl{
+    background: aliceblue;    border:rgb(0, 0, 0);
+}
+
+.test
+{
+
+    border-radius: 10px;
+}
